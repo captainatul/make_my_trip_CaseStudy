@@ -1,5 +1,5 @@
 
-```sql
+
 CREATE TABLE booking_table(
    Booking_id       VARCHAR(3) NOT NULL 
   ,Booking_date     date NOT NULL
